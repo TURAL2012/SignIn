@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.pg1_sc1 {
+  width: 100%;
+  height: 100vh;
+}
+.pg1_sc1 .box1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.pg1_sc1 .box1 h2 {
+  font-size: 24px;
+  font-family: "Product Sans", sans-serif;
+}
+.pg1_sc1 .input1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding-top: 30px;
+  justify-content: center;
+}
+.pg1_sc1 .input1 .inp {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.pg1_sc1 .input1 .inp .basqa {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+}
+.pg1_sc1 .input1 .inp p {
+  margin: 0;
+  padding: 0;
+}
+.pg1_sc1 .input1 input {
+  font-family: "Product Sans", sans-serif;
+  width: 200px;
+  height: 40px;
+  padding-left: 10px;
+  border: 1px solid gray;
+  outline-color: #1a73e8;
+  margin-top: 10px;
+}
+.pg1_sc1 .input1 p {
+  font-family: "Product Sans", sans-serif;
+  color: #1a73e8;
+  font-size: 16px;
+  font-weight: lighter;
+  margin-top: 5px;
+}
+.pg1_sc1 .input1 button {
+  width: 80px;
+  height: 40px;
+  color: white;
+  background-color: #1a73e8;
+  border: none;
+  outline: none;
+  font-family: "Product Sans", sans-serif;
+  border-radius: 5px;
+  margin-left: 120px;
+  margin-top: 70px;
+}/*# sourceMappingURL=style.css.map */
